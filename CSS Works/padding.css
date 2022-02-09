@@ -1,0 +1,14 @@
+div {
+    background-color: black;
+    width: 50%;
+    height: 300px;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+div p{
+    color: white;
+}
+h1{
+    color: tomato;
+    text-align: center;
+}

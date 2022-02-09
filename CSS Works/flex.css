@@ -1,0 +1,34 @@
+.row{
+    width: 100%;
+    height: 800px;
+    /* background-color: rgb(134, 129, 129); */
+    background-image: url(./images/wallpaper.jpg);
+    background-size: cover;
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    align-items: center;
+    /* justify-content: start; */
+    /* justify-content: end; */
+}
+
+
+.col{
+    width: 200px;
+    height: 463px;
+    /* background-color: hotpink; */
+    border: black 2px solid;
+}
+.col-1{
+    background-color: chocolate;
+}
+.col-2{
+    background-color: cornflowerblue;
+}
+.col-3{
+    background-color: crimson;
+}
+.col-4{
+    background-color: darkolivegreen;
+}

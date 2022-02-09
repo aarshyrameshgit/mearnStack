@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Libre+Franklin:ital,wght@1,900&family=Licorice&family=Moon+Dance&family=Pushster&family=Rock+3D&family=Yuji+Hentaigana+Akebono&display=swap');
+body{
+    /* background-image: url(./images/bachgroundfood.png); */
+    /* background-size: cover; */
+    background-color: black;
+    /* background-image: url(./images/wallpaper.jpg); */
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Libre Baskerville', serif;
+}
+img{
+    width: 100%;
+    height: 220px;
+    border-radius: 2px;
+    
+}
+div{
+    width: 20%;
+    height: 500px;
+    
+    /* justify-content: center; */
+    /* display: flex; */
+    align-items: center;
+}
+.row{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    /* float: right; */
+    border-radius: 2px;
+    align-items: center;
+    justify-content: center;
+
+}
+h2{
+    color: white;
+    font-size: large;
+    align-items: center;
+    text-align: center;
+
+}
+p{
+    color: white;
+    font-size: large;
+    text-align: left;
+}
+button{
+    width: 100%;
+    height: 45px;
+    color: white ;
+    border: red 2px solid;
+    background-color: black;
+    border-radius: 30px;
+}
+.col{
+    /* width: 32%; */
+    /* height: 500px; */
+    float: left;
+    padding: 100px;
+    background-color: black;
+    border: black 2px solid;
+}
+.col-1{
+    /* background-color: black; */
+    margin-left: 0px;
+}
+
+.col-2{
+    /* background-color: black; */
+    border-radius: 2px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.col-3{
+    /* background-color: black; */
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.col-4{
+    /* background-color: black; */
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.col-5{
+    /* background-color: black; */
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.col-6{
+    /* background-color: black; */
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.col-7{
+    /* background-color: black; */
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.col-8{
+    /* background-color: black; */
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.col-9{
+    background-color: black;
+    margin-left: 0px;
+    margin-top: 0px;
+}

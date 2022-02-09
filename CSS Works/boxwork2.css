@@ -1,0 +1,16 @@
+div{
+    width: 23%;
+    background-color: #f0eda3;
+    float: left;
+    border: black 2px solid;
+    
+}
+h3{
+    color: black;
+    text-align: center;
+}
+img{
+    width: 99%;
+    height: 215px;
+    border-radius: 1px;
+}
